@@ -2,3 +2,8 @@ streamlit
 pandas
 yfinance
 matplotlib
+warnings
+datetime
+collections
+time
+io
